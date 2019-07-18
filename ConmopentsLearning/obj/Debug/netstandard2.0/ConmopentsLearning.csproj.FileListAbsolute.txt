@@ -1,0 +1,15 @@
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/bin/Debug/netstandard2.0/ConmopentsLearning.deps.json
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/bin/Debug/netstandard2.0/ConmopentsLearning.dll
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/bin/Debug/netstandard2.0/ref/ConmopentsLearning.dll
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/bin/Debug/netstandard2.0/ConmopentsLearning.pdb
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/ConmopentsLearning.csprojAssemblyReference.cache
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/ConmopentsLearning.csproj.CoreCompileInputs.cache
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/ConmopentsLearning.AssemblyInfoInputs.cache
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/ConmopentsLearning.AssemblyInfo.cs
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/ConmopentsLearning.dll
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/ref/ConmopentsLearning.dll
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/ConmopentsLearning.pdb
+/Users/11267127/Projects/ConmopentsLearning/ConmopentsLearning/obj/Debug/netstandard2.0/MyComponents.xaml.g.cs

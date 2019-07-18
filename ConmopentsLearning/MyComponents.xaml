@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StackLayout xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ConmopentsLearning.MyComponents">
+    <Label x:Name="myId" Text="Hello id" />
+    <Label x:Name="myName" Text="Namedsfgasdfhghsladjfvb" />
+    <Label x:Name="myAddress" Text="Addressdfmnbgsd.jgdh,jsrggdfm,gds" />
+    <BoxView HeightRequest="5" BackgroundColor="Blue" HorizontalOptions="CenterAndExpand" />
+</StackLayout>

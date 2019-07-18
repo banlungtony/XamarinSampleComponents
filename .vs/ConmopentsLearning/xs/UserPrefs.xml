@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B28DD24E-8F2C-4F00-9FC6-AB43114DE774}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConmopentsLearning.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ConmopentsLearning.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65BE925D-A43E-4F68-8730-09E3648DB9E3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConmopentsLearning/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ConmopentsLearning/MainPage.xaml" Line="13" Column="15" />
+      <File FileName="ConmopentsLearning/MainPage.xaml.cs" Line="8" Column="1" />
+      <File FileName="ConmopentsLearning/App.xaml.cs" />
+      <File FileName="ConmopentsLearning/MyComponents.xaml" />
+      <File FileName="ConmopentsLearning/MyComponents.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConmopentsLearning" expanded="True">
+            <Node name="ConmopentsLearning" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MyComponents.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
